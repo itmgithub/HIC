@@ -44,6 +44,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <EmbeddedResource Update="Lang_nl_NL.resx">
+      <LastGenOutput>Lang_en_US.Designer.cs</LastGenOutput>
+      <Generator>ResXFileCodeGenerator</Generator>
+    </EmbeddedResource>
     <EmbeddedResource Update="Lang_en_US.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Lang_en_US.Designer.cs</LastGenOutput>

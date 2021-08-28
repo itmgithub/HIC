@@ -118,39 +118,39 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="appTitle" xml:space="preserve">
-    <value>Help is coming!</value>
+    <value>Help is comming!</value>
   </data>
   <data name="btnSubmit" xml:space="preserve">
-    <value>Submit</value>
+    <value>Versturen</value>
   </data>
   <data name="cbxCallMeBack" xml:space="preserve">
-    <value>Please contact me at:</value>
+    <value>Neem a.u.b. contact op via:</value>
   </data>
   <data name="cbxScreenShot" xml:space="preserve">
-    <value>Attach screenshot to report</value>
+    <value>Screenshot bijvoegen</value>
   </data>
   <data name="errFailSent" xml:space="preserve">
-    <value>Unable to sent report; please call the helpdesk to get assistance.</value>
+    <value>Melding kon niet gedaan worden. Neem a.u.b. contact op met de helpdesk.</value>
   </data>
   <data name="errNonDescription" xml:space="preserve">
-    <value>A short description is required inorder for us to help you quickly resolve the issue.</value>
+    <value>Een korte omschrijving van het probleem is noodzakelijk om snel geholpen te kunnen worden.</value>
   </data>
   <data name="lblWelkomText" xml:space="preserve">
-    <value>Please provide short description of your problem.</value>
+    <value>Geef een korte omschrijving van het probleem</value>
   </data>
   <data name="rptBody" xml:space="preserve">
-    <value>User "[D]\[U]" reported an issue via HIC that needs investigation.</value>
+    <value>Gebruiker "[D]\[U]" heeft via HIC een melding gemaakt die onderzocht moet worden.</value>
   </data>
   <data name="rptContactUser" xml:space="preserve">
-    <value>The user could like to be contacted at: </value>
+    <value>Gebruiker wil graag benaderd worden via:</value>
   </data>
   <data name="rptSubject" xml:space="preserve">
-    <value>HIC Report</value>
+    <value>HIC Rapport</value>
   </data>
   <data name="rptSubjectMark" xml:space="preserve">
     <value>[!]</value>
   </data>
   <data name="tbxContactDetail" xml:space="preserve">
-    <value>(xxx) xxx-xxxx</value>
+    <value>+31-xxx-xxxxxx</value>
   </data>
 </root>

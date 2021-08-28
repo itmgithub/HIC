@@ -32,7 +32,7 @@ namespace HIC
                     case "author":
                         return "Mark Feenstra";
                     case "appTitle":
-                        return "Help is comming";
+                        return "Help is coming";
                     case "lblWelkomText":
                         return "Please provide short description of your problem.";
                     case "cbxCallMeBack":

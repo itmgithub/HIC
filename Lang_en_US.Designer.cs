@@ -61,7 +61,7 @@ namespace HIC {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Help is comming!.
+        ///   Looks up a localized string similar to Help is coming!.
         /// </summary>
         internal static string appTitle {
             get {

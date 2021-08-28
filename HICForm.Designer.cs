@@ -125,7 +125,7 @@ namespace HIC
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "frmHIC";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Help is comming";
+            this.Text = "Help is coming!";
             this.TopMost = true;
             this.Load += new System.EventHandler(this.frmHIC_Load);
             ((System.ComponentModel.ISupportInitialize)(this.imgLifeRing)).EndInit();
